@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 4
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Chuteira Adidas Nemeziz 19.2 Campo",
+      "price": 499.99,
+      "image": "https://static.netshoes.com.br/produtos/chuteira-adidas-nemeziz-192-campo/44/NQQ-3810-044/NQQ-3810-044_zoom1.jpg?ts=1589371797&ims=326x"
+    },
+    {
+      "id": 2,
+      "title": "Chuteira Campo Kappa Oliver",
+      "price": 99.90,
+      "image": "https://static.netshoes.com.br/produtos/chuteira-campo-kappa-oliver/37/D24-2362-937/D24-2362-937_zoom1.jpg?ts=1589975437&ims=326x"
+    },
+    {
+      "id": 3,
+      "title": "Chuteira Society Adidas Predator 19 3 TF",
+      "price": 164.99,
+      "image": "https://static.netshoes.com.br/produtos/chuteira-society-adidas-predator-19-3-tf/64/COL-3965-064/COL-3965-064_zoom1.jpg?ts=1564396164&ims=326x"
+    },
+    {
+      "id": 5,
+      "title": "Chuteira Futsal Penalty RX Virus VIII",
+      "price": 124.67,
+      "image": "https://static.netshoes.com.br/produtos/chuteira-futsal-penalty-rx-virus-viii/76/D23-3951-076/D23-3951-076_zoom2.jpg?ims=326x"
+    },
+    {
+      "id": 6,
+      "title": "Chuteira Topper Campo Trivela",
+      "price": 65.99,
+      "image": "https://static.netshoes.com.br/produtos/chuteira-topper-campo-trivela/92/D30-2090-392/D30-2090-392_zoom1.jpg?ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Chuteira Society Adidas X 19 4 TF",
+      "price": 159.99,
+      "image": "https://static.netshoes.com.br/produtos/chuteira-society-adidas-x-19-4-tf/58/COL-6669-058/COL-6669-058_zoom1.jpg?ts=1584554523&ims=326x"
+    }
+  ]
+}
