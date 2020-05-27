@@ -8,3 +8,7 @@ This is my implementation of an online shop focused on football boots.
 * Flux Architecture Concept;
 * Redux;
 * Redux Saga;
+
+## Frontend output for now
+
+![Frontend output](https://github.com/carloscarrinho/kaduboots/blob/master/frontend_mvp_output.gif)
